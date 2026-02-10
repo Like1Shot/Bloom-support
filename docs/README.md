@@ -9,15 +9,6 @@ Official documentation and legal documents for **Bloom - Period & Cycle Tracker*
 | [PRIVACY_POLICY.md](PRIVACY_POLICY.md) | Privacy Policy for Bloom |
 | [TERMS_OF_SERVICE.md](TERMS_OF_SERVICE.md) | Terms of Service |
 
-## URLs for App Store
-
-Use these URLs when submitting to App Store Connect:
-
-| Purpose | URL |
-|---------|-----|
-| Privacy Policy | `https://github.com/Like1Shot/Bloom-support/main/PRIVACY_POLICY.md` |
-| Terms of Service | `https://github.com/Like1Shot/Bloom-support/blob/TERMS_OF_SERVICE.md` |
-| Support | `https://github.com/Like1Shot/Bloom-support` |
 
 ## Contact
 
