@@ -8,8 +8,6 @@ Official documentation and legal documents for **Bloom - Period & Cycle Tracker*
 |------|-------------|
 | [PRIVACY_POLICY.md](PRIVACY_POLICY.md) | Privacy Policy for Bloom |
 | [TERMS_OF_SERVICE.md](TERMS_OF_SERVICE.md) | Terms of Service |
-| [APP_STORE_DESCRIPTION.md](APP_STORE_DESCRIPTION.md) | App Store listing content |
-| [APP_REVIEW_INFO.md](APP_REVIEW_INFO.md) | App Review submission notes |
 
 ## URLs for App Store
 
